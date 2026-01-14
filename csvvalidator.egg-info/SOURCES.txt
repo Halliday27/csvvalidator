@@ -1,0 +1,11 @@
+CHANGES.txt
+LICENSE.txt
+MANIFEST.in
+README.rst
+README.txt
+csvvalidator.py
+setup.py
+csvvalidator.egg-info/PKG-INFO
+csvvalidator.egg-info/SOURCES.txt
+csvvalidator.egg-info/dependency_links.txt
+csvvalidator.egg-info/top_level.txt
